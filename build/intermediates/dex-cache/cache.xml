@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="273bb9511b9a3811934bdacddb6e8970f8d2c0da">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d7abf8eab4138d5f90243d625a1b30dc6f8c8d67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_7e18e831beb83f18c894baa839ff1f6953891c99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_f10e78245f11ef411ce6d66f38ef66e78bd45450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_cf1a9ea7b5936d32731d1cc0b926328bc42cdb02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\exploded-aar\com.embarkmobile\zxing-android-minimal\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37064eecdb827788e50302f6e1b094541a831760">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.embarkmobile-zxing-android-minimal-1.2.1_7624515ed51668dc0e07b9313c91ec140e2286e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_7d7446726d2426cc903b3b38cafb5e79f87c9ad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_db448a77a9509627b2a41a9e9d63ba2217a11874\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_d8e9d04d75359a115f910bbd50fcd1106ca236d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_a200c574c3a0cc70f22fbc670cda368a2957075f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_47ce812e2fdf0c5f2b0123c2bb27f5d5c2d46fdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_9c830b9394e4e0e23a67cd03e2b5ee9f075c757c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\2.2\cba0b93b0072105d808ef7a00a107a4eb97874e7\core-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cba0b93b0072105d808ef7a00a107a4eb97874e7">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-2.2_1af1965557e7b2fd054927b2a41dd38f004be1bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a77b99fe1f069ac1193bfba8a4b2b9cd3374d57c">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e59ffe895403687ea9451bb3ffb573bbf0386ac0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\ilari\AndroidStudioProjects\CacciaAlTesoro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_14ba4ae593cdee62425b3012981201dbe219ce06\classes.dex" />
+    </item>
+
+</items>
